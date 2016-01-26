@@ -1,7 +1,7 @@
 
 info:
-  description: Spring Cloud Samples
-  url: https://github.com/spring-cloud-samples
+  description: Spring Cloud Tests
+  url: https://github.com/kramerallen/ConfigRepo
 eureka:
   client:
     serviceUrl:
